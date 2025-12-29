@@ -8,8 +8,6 @@ public class CreateLeadsPage{
 
 public void test1() 
 {
-	System.out.println("======PRINT LEADS PAGE--------");
-	System.out.println("----changes done---");
-	System.out.println("pooja statement");
+	System.out.println("======PRINT LEADS PAGE--------")
 }
 }
