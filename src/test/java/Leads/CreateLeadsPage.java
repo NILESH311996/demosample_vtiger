@@ -14,5 +14,7 @@ public void test1()
 	System.out.println(" --------resolving git conflict--------");
 	System.out.println("pooja statement");
 	System.out.println("====statement modified for jenkins=======");
+	
+	System.out.println("========statment modified for scm polling in pipeline");
 }
 }
