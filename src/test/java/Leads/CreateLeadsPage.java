@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class CreateLeadsPage{
 	
-@Test
+@Test(groups ="smoke")
 
 public void test1() 
 {

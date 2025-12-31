@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class SampleOpp {
 
-	@Test
+	@Test(groups ="smoke")
 	public void Opp()
 	{
 		System.out.println("oppourtunity created");
